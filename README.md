@@ -1,4 +1,4 @@
-<img src="https://github.com/MoralisWeb3/web3-unity-sdk-sample-game-scw/blob/main/Unity/Assets/Moralis%20Web3%20Unity%20SDK%20Samples/SimCityWeb3/Documentation/Images/MoralisBanner.png" />
+<img src="https://i3.ytimg.com/vi/3jCJ7jCTqXk/maxresdefault.jpg" width="600" />
 
 # Sim City Web3
 
